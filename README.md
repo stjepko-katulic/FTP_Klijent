@@ -19,6 +19,7 @@ Aplikacija (za sada) moze koristiti samo FTP protokol.
 
 
 ******************** verzija ************************************
+
 v1.0 (2019)
 
 
