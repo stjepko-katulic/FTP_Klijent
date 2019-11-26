@@ -8,9 +8,11 @@ Jednostavan FTP klijent
 FTP Klijent
 
 
+
 ******************** opis aplikacije ****************************
 
 Aplikacija "FTP Klijent" sluzi za jednostavan upload/download podataka na/sa FTP servera.
+
 
 
 ******************** napomena ***********************************
@@ -18,9 +20,11 @@ Aplikacija "FTP Klijent" sluzi za jednostavan upload/download podataka na/sa FTP
 Aplikacija (za sada) moze koristiti samo FTP protokol.
 
 
+
 ******************** verzija ************************************
 
 v1.0 (2019)
+
 
 
 ******************** autor **************************************
