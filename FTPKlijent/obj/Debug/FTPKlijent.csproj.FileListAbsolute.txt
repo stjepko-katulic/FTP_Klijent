@@ -1,0 +1,180 @@
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\bin\Debug\FTPKlijent.exe.config
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\bin\Debug\WinSCP.exe
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\bin\Debug\FTPKlijent.exe
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\bin\Debug\FTPKlijent.pdb
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\bin\Debug\WinSCPnet.dll
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.csprojResolveAssemblyReference.cache
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeDatotekeServer.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeVeze.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxNewFolderServer.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.DialogFileFolderOverwrite.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.Form_Glavna.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.FormAzuriranjeVeze.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.FormFTPSpajanje.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.FormOAutoru.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.FormOProgramu.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.MyMessageBox.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.Properties.Resources.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.csproj.GenerateResource.Cache
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.exe
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\bin\Debug\FTPKlijent.exe.config
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\bin\Debug\WinSCP.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\bin\Debug\FTPKlijent.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\bin\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\bin\Debug\WinSCPnet.dll
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.csprojResolveAssemblyReference.cache
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeDatotekeServer.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeVeze.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxNewFolderServer.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.DialogFileFolderOverwrite.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.Form_Glavna.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.FormAzuriranjeVeze.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.FormFTPSpajanje.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.FormOAutoru.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.FormOProgramu.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.MyMessageBox.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.Properties.Resources.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v25.4\FTPKlijent\obj\Debug\FTPKlijent.csproj.GenerateResource.Cache
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\bin\Debug\FTPKlijent.exe.config
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.exe
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.pdb
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\bin\Debug\WinSCP.exe
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\bin\Debug\FTPKlijent.exe
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\bin\Debug\FTPKlijent.pdb
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\bin\Debug\WinSCPnet.dll
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.csprojResolveAssemblyReference.cache
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeVeze.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxNewFolderServer.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.DialogFileFolderOverwrite.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.Form_Glavna.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.FormAzuriranjeVeze.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.FormFTPSpajanje.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.FormOAutoru.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.FormOProgramu.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.MyMessageBox.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.Properties.Resources.resources
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.csproj.GenerateResource.Cache
+C:\Users\Yossarian\Desktop\FTP_Klijent\FTPKlijent_v25.6\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeDatoteke.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\bin\Debug\FTPKlijent.exe.config
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\bin\Debug\WinSCP.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\bin\Debug\FTPKlijent.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\bin\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\bin\Debug\WinSCPnet.dll
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.csprojResolveAssemblyReference.cache
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeDatoteke.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeVeze.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxNewFolderServer.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.DialogFileFolderOverwrite.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.Form_Glavna.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.FormAzuriranjeVeze.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.FormFTPSpajanje.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.FormOAutoru.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.FormOProgramu.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.MyMessageBox.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.Properties.Resources.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.csproj.GenerateResource.Cache
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\bin\Debug\FTPKlijent.exe.config
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.exe
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\bin\Debug\WinSCP.exe
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\bin\Debug\FTPKlijent.exe
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\bin\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\bin\Debug\WinSCPnet.dll
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.csprojResolveAssemblyReference.cache
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeDatoteke.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeVeze.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxNewFolderServer.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.DialogFileFolderOverwrite.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.Form_Glavna.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.FormAzuriranjeVeze.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.FormFTPSpajanje.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.FormOAutoru.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.FormOProgramu.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.MyMessageBox.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.Properties.Resources.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26_promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.csproj.GenerateResource.Cache
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\bin\Debug\FTPKlijent.exe.config
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.exe
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\bin\Debug\WinSCP.exe
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\bin\Debug\FTPKlijent.exe
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\bin\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\bin\Debug\WinSCPnet.dll
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.csprojResolveAssemblyReference.cache
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeDatoteke.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeVeze.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxNewFolderServer.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.DialogFileFolderOverwrite.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.Form_Glavna.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.FormAzuriranjeVeze.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.FormFTPSpajanje.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.FormOAutoru.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.FormOProgramu.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.MyMessageBox.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.Properties.Resources.resources
+C:\Users\Stjepko Katulic\Desktop\FTPKlijent_v26._promj_GUI\FTPKlijent\obj\Debug\FTPKlijent.csproj.GenerateResource.Cache
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\bin\Debug\FTPKlijent.exe.config
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\bin\Debug\WinSCP.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\bin\Debug\FTPKlijent.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\bin\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\bin\Debug\WinSCPnet.dll
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.csprojResolveAssemblyReference.cache
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeDatoteke.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeVeze.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxNewFolderServer.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.DialogFileFolderOverwrite.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.Form_Glavna.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.FormAzuriranjeVeze.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.FormFTPSpajanje.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.FormOAutoru.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.FormOProgramu.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.MyMessageBox.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.Properties.Resources.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.1\FTPKlijent\obj\Debug\FTPKlijent.csproj.GenerateResource.Cache
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\bin\Debug\FTPKlijent.exe.config
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\bin\Debug\WinSCP.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\bin\Debug\FTPKlijent.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\bin\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\bin\Debug\WinSCPnet.dll
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.csprojResolveAssemblyReference.cache
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeDatoteke.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeVeze.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxNewFolderServer.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.DialogFileFolderOverwrite.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.Form_Glavna.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.FormAzuriranjeVeze.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.FormFTPSpajanje.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.FormOAutoru.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.FormOProgramu.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.MyMessageBox.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.Properties.Resources.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.csproj.GenerateResource.Cache
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\bin\Debug\FTPKlijent.exe.config
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\bin\Debug\WinSCP.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\bin\Debug\FTPKlijent.exe
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\bin\Debug\FTPKlijent.pdb
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\bin\Debug\WinSCPnet.dll
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.csprojResolveAssemblyReference.cache
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeDatoteke.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxBrisanjeVeze.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.DialogBoxNewFolderServer.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.DialogFileFolderOverwrite.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.Form_Glavna.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.FormAzuriranjeVeze.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.FormFTPSpajanje.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.FormOAutoru.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.FormOProgramu.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.MyMessageBox.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.Properties.Resources.resources
+C:\Users\Stjepko Katulic\Desktop\FTP Klijent\GitHubUpload_zadnji\FTPKlijent_v26.2\FTPKlijent\obj\Debug\FTPKlijent.csproj.GenerateResource.Cache
